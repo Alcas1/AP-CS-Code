@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=magicBox
+comment0.target=boolean\ hasWon(int[][])
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

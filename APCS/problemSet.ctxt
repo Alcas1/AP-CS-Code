@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ loop()
+comment1.params=n
+comment1.target=int\ factorial(int)
+comment2.params=
+comment2.target=void\ loop2()
+comment3.params=n
+comment3.target=int\ sumEvens(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=public\ static\ void\ main(String\ args[])\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ Random\ r\=new\ Random();\r\n\ \ \ \ \ \ \ \ int[]\ testArray\=new\ int[10];\r\n\ \ \ \ \ \ \ \ for(int\ i\=0;i<testArray.length;i++)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ testArray[i]\=r.nextInt(101);\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ for(int\ i\=0;i<testArray.length;i++)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ testArray[i]+\=2;\r\n\ \ \ \ \ \ \ \ }\r\n}
+numComments=5

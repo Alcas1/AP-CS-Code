@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Checkers()
+comment1.params=player
+comment1.target=void\ fillBoard(int)
+comment2.params=
+comment2.target=void\ printBoard()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=
+comment4.target=void\ clearScreen()
+comment5.params=
+comment5.target=boolean\ win()
+comment6.params=pieceX\ pieceY\ moveX\ moveY\ player
+comment6.target=boolean\ canMove(int,\ int,\ int,\ int,\ int)
+comment7.params=player
+comment7.target=void\ mustMove(int)
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LotteryTicket()
+comment1.params=index
+comment1.target=int\ getTicketPlace(int)
+numComments=2
