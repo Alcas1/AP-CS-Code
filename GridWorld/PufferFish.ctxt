@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PufferFish()
+comment1.params=loc
+comment1.target=void\ makeMove(info.gridworld.grid.Location)
+comment2.params=actors
+comment2.target=void\ processActors(java.util.ArrayList)
+numComments=3

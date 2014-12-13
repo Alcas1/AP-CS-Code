@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JumperBug()
+comment1.params=
+comment1.target=boolean\ canMove()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

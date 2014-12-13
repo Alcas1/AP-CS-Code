@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=java.util.ArrayList\ getFactors(int)
+comment1.params=n
+comment1.target=boolean\ isPrime(int)
+comment2.params=primeNumber
+comment2.target=int\ primeNum(int)
+comment3.params=primeNumber
+comment3.target=void\ printPrimes(int)
+comment4.params=primeNumber
+comment4.target=int\ nextPrime(int)
+comment5.params=n
+comment5.target=int\ closestPrime(int)
+comment6.params=n
+comment6.target=void\ primeFactors(int)
+numComments=7

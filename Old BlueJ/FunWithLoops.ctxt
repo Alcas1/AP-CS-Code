@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=highest
+comment1.target=int\ makeSum(int)
+comment2.params=number
+comment2.target=int\ countEvens(int)
+comment3.params=
+comment3.target=void\ multiplicationTable()
+comment4.params=test
+comment4.target=boolean\ isPalindrome(java.lang.String)
+comment5.params=s
+comment5.target=int\ getUniqueCharacters(java.lang.String)
+numComments=6
